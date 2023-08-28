@@ -1,0 +1,9 @@
+body{
+    background-color: lavender;
+}
+h2,h1{
+    color: dodgerblue;
+}
+hr{
+    border: 1px solid dodgerblue;
+}
